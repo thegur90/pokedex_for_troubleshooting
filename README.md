@@ -6,6 +6,6 @@ stack used:
 - npm version v22.15.0 (like the lesson) + whatever typescript needs 
 - bootdev cli
 
-to reproduce - run "bootdev run 002241a8-2fa9-44c9-a4d9-03bf6ef3a9bb" a bunch of times from the project directory and check for inconsistencies.
+to reproduce - run "bootdev run 062a8eef-3e51-4000-8f80-d8df57075718" a bunch of times from the project directory and check for inconsistencies.
 
 
